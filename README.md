@@ -28,14 +28,13 @@ You need [NPM](https://nodejs.org/) to run the Grunt taks.
 
   This will run Jshint and Jasmine
 
-_____________________
-
-Feel free to join, fork and pull request!
-
-_____________________
 
 ### Credits
 
 Icons made by [Egor Rumyantsev](http://www.flaticon.com/authors/egor-rumyantsev) from [FlatIcon](http://www.flaticon.com) and is licensed by [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 I got these colors in the [Material Palette](https://www.materialpalette.com/indigo/pink) awesome website
+
+_____________________
+
+Feel free to join, fork and pull request!
