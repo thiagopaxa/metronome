@@ -1,27 +1,14 @@
-# My HTML5BoilerPlate
-
-This is a changed version of [HTML5BOILERPLATE](https://html5boilerplate.com/)
-
-I have Customized it to quickly start any small projects with some usefull tools. Comes with:
-
-* [Stylus](http://learnboost.github.io/stylus/) (with [nib](http://tj.github.io/nib/) that already comes with [normalize](http://necolas.github.io/normalize.css/))
-* [JSHint](http://jshint.com/)
-* [Jasmine](https://github.com/jasmine/jasmine)
-* [Modernizr](http://modernizr.com/)
-* [Grunt](http://gruntjs.com/)
-* -- [Imagemin](https://github.com/gruntjs/grunt-contrib-imagemin)
-* -- [Cssmin](https://github.com/gruntjs/grunt-contrib-cssmin)
-* -- [Uglify](https://github.com/gruntjs/grunt-contrib-uglify)
-* [JQuery](http://jquery.com/)
+# Metronome
+> An Experiment for the musicians joy, so enjoy
 
 ## Dependencies
 
 You need [NPM](https://nodejs.org/) to run the Grunt taks.
 
-* Install npm packages 
+* Install npm packages
 
 ```bash
-  $ npm i # install npm local packages
+  $ npm i # install npm local packages and build assets
 ```
 
 ## Grunt Tasks
@@ -43,6 +30,12 @@ You need [NPM](https://nodejs.org/) to run the Grunt taks.
 
 _____________________
 
-***This will only be tested by me in Linux Ubuntu and Mac OsX...***
-
 Feel free to join, fork and pull request!
+
+_____________________
+
+### Credits
+
+Icons made by [Egor Rumyantsev](http://www.flaticon.com/authors/egor-rumyantsev) from [FlatIcon](http://www.flaticon.com) and is licensed by [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+I got these colors in the [Material Palette](https://www.materialpalette.com/indigo/pink) awesome website
