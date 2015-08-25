@@ -16,11 +16,19 @@ indigo-bg()
   background $primary-color
   color $white
 
+indigo-dark-bg()
+  background $dark-primary-color
+  color $white
+
+white-bg()
+  background $white
+  color $dark-text
+
 accented-colors()
   color $accent
 
 body, html
-  indigo-bg()
+  indigo-dark-bg()
   position relative
   min-height 100%
   min-width 100%
@@ -35,10 +43,21 @@ a
 
 // header
 .metronome-wrapper
+  indigo-bg()
+  position relative
   max-width 1200px
-  min-width 95%
+  min-width 90%
   padding 0 5%
   margin 0 auto
 
 .metronome-title
   text-align center
+
+.control-icons
+  height 20px
+  cursor pointer
+  g
+    fill $accented
+    transition(.5s)
+    &:hover
+      fill $white

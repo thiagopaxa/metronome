@@ -4,6 +4,7 @@
   "description": "An experimental boiler plate created out of HTML5 Boilerplate",
   "main": "index.js",
   "scripts": {
+    "postinstall": "grunt",
     "test": "grunt test"
   },
   "repository": {
